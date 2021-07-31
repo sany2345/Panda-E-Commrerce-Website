@@ -1,0 +1,13 @@
+.information-background{
+    background-color:#fceae8  ;
+}
+.categories{
+   width: 100px;
+}
+.buy-now-btn{
+    color: white;
+    background-image: linear-gradient(to bottom, #FF589B 0%, #ff458e 100%);
+    border-radius: 8px;
+    padding: 9px 25px;
+    border: none;
+}
